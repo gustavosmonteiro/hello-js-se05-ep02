@@ -1,0 +1,22 @@
+{
+  "name": "hello-js-se05-ep02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavosmonteiro/hello-js-se05-ep02.git"
+  },
+  "author": "Gustavo Monteiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavosmonteiro/hello-js-se05-ep02/issues"
+  },
+  "homepage": "https://github.com/gustavosmonteiro/hello-js-se05-ep02#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
